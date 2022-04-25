@@ -19,9 +19,7 @@ import com.qa.daigorsecondproject.data.entity.Staff;
 
 @RestController
 @RequestMapping(path = "/commander")
-public class ComanderController {
-	
-	
+public class ComanderController {	
 	
 
 }
