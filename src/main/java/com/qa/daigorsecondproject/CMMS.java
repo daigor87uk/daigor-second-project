@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DaigorSecondProjectApplication {
+public class CMMS {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DaigorSecondProjectApplication.class, args);
+		SpringApplication.run(CMMS.class, args);
 	}
 
 }
